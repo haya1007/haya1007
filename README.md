@@ -1,5 +1,8 @@
-Twitter [@tedo0627](https://twitter.com/tedo0627)  
-My English is not good, so I use a translator.  
+Im haya1007.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tedo0627&count_private=true&show_icons=true&theme=vue" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tedo0627&layout=compact&theme=vue" />
+Twitter [Twitter](https://twitter.com/hayao_1007) 
+Youtube [Youtube](https://www.youtube.com/channel/UCFN-rQWsxINyXdV3aRiyy3A)
+Twitch  [Twitch](https://www.twitch.tv/haya1007)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=haya1007&count_private=true&show_icons=true&theme=yeblu" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haya1007&layout=compact&theme=yeblu" />
